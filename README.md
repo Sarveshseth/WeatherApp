@@ -35,12 +35,12 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={cityname}&appid=
 ---
 
 ### **✨ Try It Live!**  
-Experience it here: [Weather-Forecast Live Demo](https://snehachaursia.github.io/Weather-Forecast-/)  
+Experience it here: [Weather-Forecast Live Demo]()  
 
 ---
 
 💬 **Got Suggestions or Questions?**  
-Feel free to reach out at ✉️ **chaurasiasneha30@gmail.com**  
+Feel free to reach out at ✉️ **sarveshseth2022@gmail.com**  
 
 ---
 
